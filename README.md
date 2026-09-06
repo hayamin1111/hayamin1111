@@ -1,6 +1,9 @@
 # Welcome to Hayakawa's profile!
+
 初めまして、ハヤカワです。
+
 Webサイト制作でのマークアップ・コーディング・CMS構築・フロントエンド実装などやってまいりました。
+
 現在はNext.js / React / TypeScriptを使った個人開発を通して、Web開発領域へスキルを広げています。
 
 ## 個人開発
