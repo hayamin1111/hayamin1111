@@ -1,16 +1,34 @@
-## Hi there 👋
+# Welcome to Hayakawa's profile!
+初めまして、ハヤカワです。
+Webサイト制作でのマークアップ・コーディング・CMS構築・フロントエンド実装などやってまいりました。
+現在はNext.js / React / TypeScriptを使った個人開発を通して、Web開発領域へスキルを広げています。
 
-<!--
-**hayamin1111/hayamin1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 経験
 
-Here are some ideas to get you started:
+- HTML / CSS / JavaScriptを用いたWebサイト制作・マークアップ
+- TypeScriptを用いたUI・機能実装
+- WordPressオリジナルテーマ構築
+- API連携を伴うフロントエンド実装
+- レスポンシブ・アクセシビリティを考慮した実装
+- デザイナー・バックエンドエンジニアとのチーム開発
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 個人開発
+### 📚 Book Finder
+
+Google Books APIを利用した書籍検索アプリです。
+
+[デモ](https://bookfinder.ehykw.com/) 
+[Repository](https://github.com/hayamin1111/novel-search-app)
+
+**Tech**
+
+Next.js / React / TypeScript / Zod / Vitest
+
+**実装**
+
+- Google Books APIを利用した書籍検索
+- Next.js Route HandlerによるAPIキーの秘匿
+- ZodによるAPIレスポンスの実行時検証
+- sessionStorageを利用した検索状態・スクロール位置の復元
+- Vitestによるユニットテスト
+
