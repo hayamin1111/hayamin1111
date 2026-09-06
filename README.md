@@ -1,11 +1,10 @@
-# Welcome to Hayakawa's profile!
+# Hayakawa | Markup / Frontend Engineer
 
 初めまして、ハヤカワです。見てくれてありがとうございます。
 
 約６年間、Web制作会社にてマークアップ・コーディング・CMS構築・フロントエンド実装などをやってまいりました。
 
-現在はNext.js / React / TypeScriptを使った個人開発を通してスキルを広げています。
-
+現在はNext.js / React / TypeScriptを使った個人開発を通して、フロントエンドを中心にWeb制作・開発のスキルを広げています。
 
 ## Skills & Tools
 
