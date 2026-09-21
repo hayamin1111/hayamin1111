@@ -1,4 +1,4 @@
-# Hayakawa | Markup / Frontend Engineer
+# Hayakawa | Markup & Frontend Engineer
 
 初めまして、ハヤカワです。見てくれてありがとうございます。
 
