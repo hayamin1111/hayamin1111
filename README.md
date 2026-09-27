@@ -57,9 +57,7 @@
 
 Google Books APIを利用した書籍検索アプリです。
 
-[デモ](https://bookfinder.ehykw.com/) 
-
-[リポジトリ](https://github.com/hayamin1111/novel-search-app)
+[デモ](https://bookfinder.ehykw.com/) / [リポジトリ](https://github.com/hayamin1111/novel-search-app)
 
 **使用技術**
 
@@ -73,3 +71,24 @@ Next.js / React / TypeScript / Zod / Vitest
 - sessionStorageを利用した検索状態・スクロール位置の復元
 - Vitestによるユニットテスト
 
+### 🎬 Theater App
+
+Reactの状態管理を学ぶために制作した、映画館の上映スケジュールアプリです。
+
+[デモ](https://theater.ehykw.com/) / [リポジトリ](https://github.com/hayamin1111/theater-app)
+
+**使用技術**
+
+React / TypeScript / Tailwind CSS / mockAPI
+
+**実装内容**
+
+- mockAPIから上映データを取得し、タイムテーブル形式で表示
+- CSS Gridによる上映開始・終了時刻とスクリーン番号に応じた配置計算
+- 日付切り替え、作品名検索、ジャンル・上映形式による複数条件での絞り込み
+- HTMLのdialog要素とuseRefを使用した作品詳細モーダル
+
+**AIの活用**
+
+- Figma Makeを使用してUIデザインを生成
+- Figma Makeで生成したデザイン画像をもとに、OpenAI Codexを使用してTailwind CSSによるスタイリングを実装
