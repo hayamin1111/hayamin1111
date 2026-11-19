@@ -2,7 +2,7 @@
 
 初めまして、ハヤカワです。見てくれてありがとうございます。
 
-約６年間、Web制作会社にてマークアップ・コーディング・CMS構築・フロントエンド実装などをやってまいりました。
+Web制作会社にてマークアップ・コーディング・CMS構築・フロントエンド実装などをやってまいりました。
 
 現在はNext.js / React / TypeScriptを使った個人開発を通して、フロントエンドを中心にWeb制作・開発のスキルを広げています。
 
@@ -57,7 +57,7 @@
 
 Google Books APIを利用した書籍検索アプリです。
 
-[デモ](https://bookfinder.ehykw.com/) / [リポジトリ](https://github.com/hayamin1111/novel-search-app)
+[リポジトリ](https://github.com/hayamin1111/novel-search-app)
 
 **使用技術**
 
@@ -75,7 +75,7 @@ Next.js / React / TypeScript / Zod / Vitest
 
 Reactの状態管理を学ぶために制作した、映画館の上映スケジュールアプリです。
 
-[デモ](https://theater.ehykw.com/) / [リポジトリ](https://github.com/hayamin1111/theater-app)
+[リポジトリ](https://github.com/hayamin1111/theater-app)
 
 **使用技術**
 
